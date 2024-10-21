@@ -1,0 +1,114 @@
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  text-align: left;
+  margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: white;
+}
+
+h1 {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 43px;
+  font-weight: 115;
+
+}
+
+.comp {
+  text-decoration: line-through;
+  width: 102px;
+  text-align: left;
+  flex: 1;
+  color: black;
+
+}
+
+.buttona {
+  background-color: #ffffff;
+  color: #000000;
+  border-color: black;
+  width: 20%;
+  height: 5.8vh;
+  margin-left: 1%;
+
+}
+
+.form {
+  text-align: left;
+}
+
+.principal {
+  font-family: Roboto;
+  width: 45%;
+  height: 90vh;
+  margin: 0 auto;
+  background-color: white;
+  border: 1px ;
+  border-radius: 0%;
+}
+
+.checkbox {
+  accent-color: black;
+}
+
+.delete-btn {
+  background-color: none;
+  margin-left: 0%;
+}
+
+.text-input {
+  width: 75%;
+  height: 6.4vh;
+  border: 1px, solid black;
+  margin: 0 auto;
+  font-size: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.list-item {
+  list-style-type: none;
+  align-items: center;
+  display: flex;
+  width: 94%;
+  height: 6.5vh;
+  border: 2px, solid black;
+  margin-bottom: 20px;
+}
+
+.list-item .basura {
+  border: transparent;
+  cursor: pointer;
+  text-align: right;
+  background: transparent;
+}
+
+.List-tarea{
+  width: 90%;
+margin-top: 10px;
+  text-align: center;
+}
+.nombre {
+  width: 102px;
+  text-align: left;
+  flex: 1;
+  color: black;
+}
+
+.form input[type="text"] {
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  border: 0.3vh solid #000000;
+  width: 67.5%;
+  height: 5vh;
+}
+
+.title {
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: black;
+}
+
